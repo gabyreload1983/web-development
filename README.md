@@ -5,7 +5,7 @@ Teaching and studying as a team.
 - Nodejs >>> https://nodejs.org/es
 - Git >>> https://git-scm.com/
 - Visual Studio Code >>> https://code.visualstudio.com/
-- En VIsual Studio Code agregar las siguientes extenciones: Live Server y Prettier - Code formatter
+- En Visual Studio Code agregar las siguientes extenciones: Live Server y Prettier - Code formatter
 - Crear una cuenta en Github >>> https://github.com/
   
 
