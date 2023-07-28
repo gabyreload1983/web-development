@@ -1,6 +1,15 @@
 # Web Development
 Teaching and studying as a team.
 
+## Instalar
+- Nodejs >>> https://nodejs.org/es
+- Git >>> https://git-scm.com/
+- Visual Studio Code >>> https://code.visualstudio.com/
+- En VIsual Studio Code agregar las siguientes extenciones: Live Server y Prettier - Code formatter
+- Crear una cuenta en Github >>> https://github.com/
+  
+
+## Primer Proyecto
 - Abrir la terminal
 - Crear una carpeta e ingresar en la misma
 - Inicializar un repositorio de git
